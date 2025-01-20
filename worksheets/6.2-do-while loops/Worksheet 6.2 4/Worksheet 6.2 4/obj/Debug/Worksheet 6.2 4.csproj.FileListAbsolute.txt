@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\bin\Debug\Worksheet 6.2 4.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\bin\Debug\Worksheet 6.2 4.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\bin\Debug\Worksheet 6.2 4.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\obj\Debug\Worksheet 6.2 4.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\obj\Debug\Worksheet 6.2 4.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.2-do...while loops\Worksheet 6.2 4\Worksheet 6.2 4\obj\Debug\Worksheet 6.2 4.pdb
