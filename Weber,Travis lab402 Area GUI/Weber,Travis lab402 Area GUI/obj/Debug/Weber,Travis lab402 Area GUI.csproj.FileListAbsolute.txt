@@ -1,0 +1,8 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\bin\Debug\Weber,Travis lab402 Area GUI.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\bin\Debug\Weber,Travis lab402 Area GUI.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\bin\Debug\Weber,Travis lab402 Area GUI.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\obj\Debug\Weber,Travis lab402 Area GUI.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\obj\Debug\Weber_Travis_lab402_Area_GUI.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\obj\Debug\Weber,Travis lab402 Area GUI.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\obj\Debug\Weber,Travis lab402 Area GUI.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab402 Area GUI\Weber,Travis lab402 Area GUI\obj\Debug\Weber,Travis lab402 Area GUI.pdb

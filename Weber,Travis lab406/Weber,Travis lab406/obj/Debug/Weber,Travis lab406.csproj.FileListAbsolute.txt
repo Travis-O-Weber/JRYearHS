@@ -1,0 +1,8 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\obj\Debug\Weber,Travis lab406.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\obj\Debug\Weber_Travis_lab406.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\obj\Debug\Weber,Travis lab406.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\bin\Debug\Weber,Travis lab406.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\bin\Debug\Weber,Travis lab406.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\bin\Debug\Weber,Travis lab406.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\obj\Debug\Weber,Travis lab406.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab406\Weber,Travis lab406\obj\Debug\Weber,Travis lab406.pdb

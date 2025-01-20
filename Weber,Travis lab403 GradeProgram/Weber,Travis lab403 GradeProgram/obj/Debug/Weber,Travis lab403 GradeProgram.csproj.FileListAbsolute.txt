@@ -1,0 +1,8 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\bin\Debug\Weber,Travis lab403 GradeProgram.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\bin\Debug\Weber,Travis lab403 GradeProgram.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\bin\Debug\Weber,Travis lab403 GradeProgram.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\obj\Debug\Weber,Travis lab403 GradeProgram.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\obj\Debug\Weber_Travis_lab403_GradeProgram.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\obj\Debug\Weber,Travis lab403 GradeProgram.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\obj\Debug\Weber,Travis lab403 GradeProgram.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab403 GradeProgram\Weber,Travis lab403 GradeProgram\obj\Debug\Weber,Travis lab403 GradeProgram.pdb

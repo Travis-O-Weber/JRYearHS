@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\obj\Debug\Weber,Travis lab405 Hallo Scream Program.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\bin\Debug\Weber,Travis lab405 Hallo Scream Program.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\bin\Debug\Weber,Travis lab405 Hallo Scream Program.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\bin\Debug\Weber,Travis lab405 Hallo Scream Program.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\obj\Debug\Weber,Travis lab405 Hallo Scream Program.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab405 Hallo Scream Program\Weber,Travis lab405 Hallo Scream Program\obj\Debug\Weber,Travis lab405 Hallo Scream Program.pdb

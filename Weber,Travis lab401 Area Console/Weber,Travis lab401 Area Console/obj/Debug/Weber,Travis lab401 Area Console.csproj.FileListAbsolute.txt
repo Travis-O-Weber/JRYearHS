@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\bin\Debug\Weber,Travis lab401 Area Console.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\bin\Debug\Weber,Travis lab401 Area Console.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\bin\Debug\Weber,Travis lab401 Area Console.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\obj\Debug\Weber,Travis lab401 Area Console.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\obj\Debug\Weber,Travis lab401 Area Console.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab401 Area Console\Weber,Travis lab401 Area Console\obj\Debug\Weber,Travis lab401 Area Console.pdb
