@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\bin\Debug\Test 3 to 99 by 3s.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\bin\Debug\Test 3 to 99 by 3s.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\bin\Debug\Test 3 to 99 by 3s.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\obj\Debug\Test 3 to 99 by 3s.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\obj\Debug\Test 3 to 99 by 3s.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 3 to 99 by 3s\Test 3 to 99 by 3s\obj\Debug\Test 3 to 99 by 3s.pdb

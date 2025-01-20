@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\obj\Debug\Test 100 down to 5 by 5.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\bin\Debug\Test 100 down to 5 by 5.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\bin\Debug\Test 100 down to 5 by 5.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\bin\Debug\Test 100 down to 5 by 5.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\obj\Debug\Test 100 down to 5 by 5.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\Test 100 down to 5 by 5\Test 100 down to 5 by 5\obj\Debug\Test 100 down to 5 by 5.pdb

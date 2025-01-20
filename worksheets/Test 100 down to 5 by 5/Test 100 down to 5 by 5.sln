@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test 100 down to 5 by 5", "Test 100 down to 5 by 5\Test 100 down to 5 by 5.csproj", "{CEEF8493-7E97-4666-9CF9-C5235AF4F846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEF8493-7E97-4666-9CF9-C5235AF4F846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEF8493-7E97-4666-9CF9-C5235AF4F846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEF8493-7E97-4666-9CF9-C5235AF4F846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEF8493-7E97-4666-9CF9-C5235AF4F846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
