@@ -1,0 +1,6 @@
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\obj\Debug\Worksheet 6.3 2.csprojResolveAssemblyReference.cache
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\bin\Debug\Worksheet 6.3 2.exe.config
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\bin\Debug\Worksheet 6.3 2.exe
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\bin\Debug\Worksheet 6.3 2.pdb
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\obj\Debug\Worksheet 6.3 2.exe
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.3 2\Worksheet 6.3 2\obj\Debug\Worksheet 6.3 2.pdb

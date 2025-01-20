@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\obj\Debug\Worksheet 6.3 13.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\bin\Debug\Worksheet 6.3 13.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\bin\Debug\Worksheet 6.3 13.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\bin\Debug\Worksheet 6.3 13.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\obj\Debug\Worksheet 6.3 13.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Worksheets\6.3-do and do...while loops\Worksheet 6.3 13\Worksheet 6.3 13\obj\Debug\Worksheet 6.3 13.pdb
