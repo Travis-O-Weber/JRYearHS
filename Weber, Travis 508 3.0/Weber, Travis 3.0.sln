@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weber, Travis 3.0", "Weber, Travis 3.0\Weber, Travis 3.0.csproj", "{14A9A1E2-692E-46E6-A9DF-2F3F8FBDAD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A9A1E2-692E-46E6-A9DF-2F3F8FBDAD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A9A1E2-692E-46E6-A9DF-2F3F8FBDAD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A9A1E2-692E-46E6-A9DF-2F3F8FBDAD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A9A1E2-692E-46E6-A9DF-2F3F8FBDAD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,48 @@
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+E:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+U:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+D:\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\bin\Debug\Weber, Travis 3.0.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber__Travis_3._.MainForm.resources
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.csproj.GenerateResource.Cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis 508 3.0\Weber, Travis 3.0\obj\Debug\Weber, Travis 3.0.pdb
