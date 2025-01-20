@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\obj\Debug\Lab 610 Travis Weber.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\bin\Debug\Lab 610 Travis Weber.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\bin\Debug\Lab 610 Travis Weber.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\bin\Debug\Lab 610 Travis Weber.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\obj\Debug\Lab 610 Travis Weber.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\Lab 610 Travis Weber\obj\Debug\Lab 610 Travis Weber.pdb
