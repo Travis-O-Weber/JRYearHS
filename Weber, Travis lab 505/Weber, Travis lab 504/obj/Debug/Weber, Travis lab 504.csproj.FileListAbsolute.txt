@@ -1,0 +1,30 @@
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe.config
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.pdb
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.csprojResolveAssemblyReference.cache
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.exe
+C:\School Stuff 11th\Comp Science codes\Weber, Travis lab 504\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.pdb
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.csprojResolveAssemblyReference.cache
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.exe
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe.config
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.pdb
+H:\Comp Science\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.pdb
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe.config
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.pdb
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.csprojResolveAssemblyReference.cache
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.exe
+U:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.pdb
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe.config
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.pdb
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.csprojResolveAssemblyReference.cache
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.exe
+E:\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\bin\Debug\Weber, Travis lab 504.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 505\Weber, Travis lab 504\obj\Debug\Weber, Travis lab 504.pdb

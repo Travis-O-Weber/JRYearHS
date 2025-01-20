@@ -1,0 +1,24 @@
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csprojResolveAssemblyReference.cache
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber__Travis_lab_506.MainForm.resources
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csproj.GenerateResource.Cache
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe.config
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.pdb
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.exe
+H:\Comp Science\500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.pdb
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe.config
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.pdb
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csprojResolveAssemblyReference.cache
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber__Travis_lab_506.MainForm.resources
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csproj.GenerateResource.Cache
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.exe
+U:\Computer Science\Lab 500's\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\bin\Debug\Weber, Travis lab 506.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber__Travis_lab_506.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 506\Weber, Travis lab 506\obj\Debug\Weber, Travis lab 506.pdb
