@@ -1,0 +1,7 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\bin\Debug\lab 602.01 Travis Weber.dll
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\bin\Debug\lab 602.01 Travis Weber.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\obj\Debug\lab 602.01 Travis Weber.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\obj\Debug\lab_602._1_Travis_Weber.UserControl1.resources
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\obj\Debug\lab 602.01 Travis Weber.csproj.GenerateResource.Cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\obj\Debug\lab 602.01 Travis Weber.dll
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\lab 602.01 Travis Weber\lab 602.01 Travis Weber\obj\Debug\lab 602.01 Travis Weber.pdb
