@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\obj\Debug\For loop test.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\bin\Debug\For loop test.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\bin\Debug\For loop test.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\bin\Debug\For loop test.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\obj\Debug\For loop test.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 600's\For loop test\For loop test\obj\Debug\For loop test.pdb
