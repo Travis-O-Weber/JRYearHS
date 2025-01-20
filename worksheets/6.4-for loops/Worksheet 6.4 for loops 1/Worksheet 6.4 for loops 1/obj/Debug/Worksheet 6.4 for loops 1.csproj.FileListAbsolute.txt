@@ -1,0 +1,6 @@
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\bin\Debug\Worksheet 6.4 for loops 1.exe.config
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\bin\Debug\Worksheet 6.4 for loops 1.exe
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\bin\Debug\Worksheet 6.4 for loops 1.pdb
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\obj\Debug\Worksheet 6.4 for loops 1.csprojResolveAssemblyReference.cache
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\obj\Debug\Worksheet 6.4 for loops 1.exe
+C:\Users\legol\OneDrive\Documents\SharpDevelop Projects\Worksheet 6.4 for loops 1\Worksheet 6.4 for loops 1\obj\Debug\Worksheet 6.4 for loops 1.pdb
