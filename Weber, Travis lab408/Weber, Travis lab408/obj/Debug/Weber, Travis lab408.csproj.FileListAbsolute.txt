@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\obj\Debug\Weber, Travis lab408.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\bin\Debug\Weber, Travis lab408.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\bin\Debug\Weber, Travis lab408.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\bin\Debug\Weber, Travis lab408.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\obj\Debug\Weber, Travis lab408.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab408\Weber, Travis lab408\obj\Debug\Weber, Travis lab408.pdb

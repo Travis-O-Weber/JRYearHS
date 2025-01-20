@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\obj\Debug\Weber, Travis lab 414.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\bin\Debug\Weber, Travis lab 414.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\bin\Debug\Weber, Travis lab 414.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\bin\Debug\Weber, Travis lab 414.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\obj\Debug\Weber, Travis lab 414.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 414\Weber, Travis lab 414\obj\Debug\Weber, Travis lab 414.pdb
