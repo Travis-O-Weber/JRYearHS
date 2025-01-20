@@ -1,0 +1,8 @@
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\bin\Debug\Weber, Travis lab 411.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\bin\Debug\Weber, Travis lab 411.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\bin\Debug\Weber, Travis lab 411.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\obj\Debug\Weber, Travis lab 411.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\obj\Debug\Weber__Travis_lab_411.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\obj\Debug\Weber, Travis lab 411.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\obj\Debug\Weber, Travis lab 411.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab 411\Weber, Travis lab 411\obj\Debug\Weber, Travis lab 411.pdb

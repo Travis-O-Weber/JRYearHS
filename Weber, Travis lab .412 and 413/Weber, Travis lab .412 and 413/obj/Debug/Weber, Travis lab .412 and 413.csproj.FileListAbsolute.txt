@@ -1,0 +1,24 @@
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber__Travis_lab_._12_and_413.MainForm.resources
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csproj.GenerateResource.Cache
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe.config
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.pdb
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.exe
+E:\My Files\SharpDevelop Projects\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.pdb
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe.config
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.pdb
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csprojResolveAssemblyReference.cache
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber__Travis_lab_._12_and_413.MainForm.resources
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csproj.GenerateResource.Cache
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.exe
+U:\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\bin\Debug\Weber, Travis lab .412 and 413.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber__Travis_lab_._12_and_413.MainForm.resources
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.csproj.GenerateResource.Cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 400's\Weber, Travis lab .412 and 413\Weber, Travis lab .412 and 413\obj\Debug\Weber, Travis lab .412 and 413.pdb
