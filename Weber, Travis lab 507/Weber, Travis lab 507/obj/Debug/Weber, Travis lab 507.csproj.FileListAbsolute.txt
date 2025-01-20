@@ -1,0 +1,12 @@
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.exe.config
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.exe
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.pdb
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.csprojResolveAssemblyReference.cache
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.exe
+C:\School Stuff 11th\Comp Science codes\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\bin\Debug\Weber, Travis lab 507.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber, Travis lab 507\Weber, Travis lab 507\obj\Debug\Weber, Travis lab 507.pdb
