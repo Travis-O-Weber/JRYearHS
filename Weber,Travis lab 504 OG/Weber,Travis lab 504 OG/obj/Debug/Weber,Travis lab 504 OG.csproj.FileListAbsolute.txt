@@ -1,0 +1,24 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.pdb
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe.config
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.pdb
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.csprojResolveAssemblyReference.cache
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.exe
+H:\Comp Science\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.pdb
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe.config
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.pdb
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.csprojResolveAssemblyReference.cache
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.exe
+U:\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\bin\Debug\Weber,Travis lab 504 OG.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 504 OG\Weber,Travis lab 504 OG\obj\Debug\Weber,Travis lab 504 OG.pdb

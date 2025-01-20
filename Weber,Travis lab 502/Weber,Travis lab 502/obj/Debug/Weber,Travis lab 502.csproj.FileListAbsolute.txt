@@ -1,0 +1,18 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.pdb
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe.config
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.pdb
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.csprojResolveAssemblyReference.cache
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.exe
+U:\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe.config
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\bin\Debug\Weber,Travis lab 502.pdb
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.csprojResolveAssemblyReference.cache
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.exe
+C:\Users\legol\Documents\School stuff\Computer Science\Lab 500's\Weber,Travis lab 502\Weber,Travis lab 502\obj\Debug\Weber,Travis lab 502.pdb
