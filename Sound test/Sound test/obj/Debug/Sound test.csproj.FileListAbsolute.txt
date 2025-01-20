@@ -1,0 +1,13 @@
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\obj\Debug\Sound test.csprojResolveAssemblyReference.cache
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\obj\Debug\Sound_test.MainForm.resources
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\obj\Debug\Sound test.csproj.GenerateResource.Cache
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\bin\Debug\Sound test.exe.config
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\bin\Debug\Sound test.exe
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\bin\Debug\Sound test.pdb
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\obj\Debug\Sound test.exe
+C:\School Stuff 11th\Comp Science codes\Sound test\Sound test\obj\Debug\Sound test.pdb
+U:\Computer Science\Sound test\Sound test\obj\Debug\Sound test.csprojResolveAssemblyReference.cache
+U:\Computer Science\Sound test\Sound test\obj\Debug\Sound_test.MainForm.resources
+U:\Computer Science\Sound test\Sound test\obj\Debug\Sound test.csproj.GenerateResource.Cache
+U:\Computer Science\Sound test\Sound test\obj\Debug\Sound test.exe
+U:\Computer Science\Sound test\Sound test\obj\Debug\Sound test.pdb
