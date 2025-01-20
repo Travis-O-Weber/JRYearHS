@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\obj\Debug\Weber,Travis (Not david) worksheet 3.1.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\bin\Debug\Weber,Travis (Not david) worksheet 3.1.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\bin\Debug\Weber,Travis (Not david) worksheet 3.1.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\bin\Debug\Weber,Travis (Not david) worksheet 3.1.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\obj\Debug\Weber,Travis (Not david) worksheet 3.1.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis (Not david) worksheet 3.1\Weber,Travis (Not david) worksheet 3.1\obj\Debug\Weber,Travis (Not david) worksheet 3.1.pdb

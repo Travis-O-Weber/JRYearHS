@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\bin\Debug\Weber Travis 570086 lab assinment 10.exe.config
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\bin\Debug\Weber Travis 570086 lab assinment 10.exe
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\bin\Debug\Weber Travis 570086 lab assinment 10.pdb
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\obj\Debug\Weber Travis 570086 lab assinment 10.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\obj\Debug\Weber Travis 570086 lab assinment 10.exe
+E:\My Files\SharpDevelop Projects\Weber Travis 570086 lab assinment 10\Weber Travis 570086 lab assinment 10\obj\Debug\Weber Travis 570086 lab assinment 10.pdb

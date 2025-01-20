@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\bin\Debug\Weber,Travis 570086 lab assinment 14 marathon.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\bin\Debug\Weber,Travis 570086 lab assinment 14 marathon.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\bin\Debug\Weber,Travis 570086 lab assinment 14 marathon.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\obj\Debug\Weber,Travis 570086 lab assinment 14 marathon.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\obj\Debug\Weber,Travis 570086 lab assinment 14 marathon.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 14 marathon\Weber,Travis 570086 lab assinment 14 marathon\obj\Debug\Weber,Travis 570086 lab assinment 14 marathon.pdb

@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\obj\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\bin\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\bin\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\bin\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\obj\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment 13 TempConverter\Weber,Travis 570086 lab assinment 13 TempConverter\obj\Debug\Weber,Travis 570086 lab assinment 13 TempConverter.pdb

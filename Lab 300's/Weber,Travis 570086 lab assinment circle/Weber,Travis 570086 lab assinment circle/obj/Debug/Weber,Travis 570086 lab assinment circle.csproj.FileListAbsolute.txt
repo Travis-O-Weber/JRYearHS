@@ -1,0 +1,6 @@
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\obj\Debug\Weber,Travis 570086 lab assinment circle.csprojResolveAssemblyReference.cache
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\bin\Debug\Weber,Travis 570086 lab assinment circle.exe.config
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\bin\Debug\Weber,Travis 570086 lab assinment circle.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\bin\Debug\Weber,Travis 570086 lab assinment circle.pdb
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\obj\Debug\Weber,Travis 570086 lab assinment circle.exe
+E:\My Files\SharpDevelop Projects\Weber,Travis 570086 lab assinment circle\Weber,Travis 570086 lab assinment circle\obj\Debug\Weber,Travis 570086 lab assinment circle.pdb
