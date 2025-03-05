@@ -1,7 +1,3 @@
-Here's a README.md file focusing on the functionality of the provided **Program.cs** file:  
-
----
-
 ## Weber Travis Lab 502 - Pig Latin Converter
 
 ### Overview
